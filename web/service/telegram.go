@@ -234,10 +234,7 @@ func (s *TelegramService) StartRun() {
 💖Welcome to use the X-UI panel Telegram Bot! please send /help to see what can I do`
         case "author":
             msg.Text = `
-👦🏻 Author  : Niduka Akalanka
-📍 Github   : https://github.com/NidukaAkalanka
-📞 Telegram: @NidukaAkalanka (Contact for any issues. Please be patient. As I am a student, I may not be able to reply immediately.)
-📧 Email   : admin@itsmeniduka.engineer
+👦🏻 Author  : GOD :)
             `
 		default:
 			msg.Text = `⭐ X-UI 0.2 Telegram Bot Commands Menu ⭐
